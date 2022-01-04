@@ -104,7 +104,7 @@ $ python3 -m VCsMusicBot
 - `/reload` - Refresh admin list
 - `/musicplayer [on/off]` - Enable/Disable Music Player
 
-### Channel Music Play 👨‍🎤
+### Channel Music Play �
 *For linked group admins only:*
 - `/cplay <song name>` - play song you requested
 - `/cplay <reply to audio>` - play replied file
